@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a student at Harvard studying Computer Science and Statistics. Here are a few of my projects below!
+
 <!--
 **jasaimartinez/jasaimartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
