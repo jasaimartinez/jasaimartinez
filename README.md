@@ -7,7 +7,7 @@ I am a student at Harvard studying Computer Science and Statistics. Here are a f
 
 <b>[CS 50 Final Project](https://github.com/jasaimartinez/MARVELous) </b>: Marvelous!🦸, a Flask website allowing Marvel fans to engage with one another in rating movies!
 
-<b>[Math 22 Projects](https://github.com/jasaimartinez/math22)</b> Two final math projects connecting linear algebra to computer graphics! 
+<b>[Math 22 Projects](https://github.com/jasaimartinez/math22)</b>: Two final math projects connecting linear algebra to computer graphics! 
 
 
 <!--
