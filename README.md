@@ -3,6 +3,7 @@
 I am a student at Harvard studying Computer Science and Statistics. Here are a few of my projects below!
 
 ## Projects
+<b>[Math 22 Projects](https://github.com/jasaimartinez/math22)</b> Two final math projects connecting linear algebra to computer graphics! 
 <b>[CS 51 Final Project]<b> (NOTE: this can only be public during Fall semester to ensure my code is not reused by future students.)
 
 <b>[CS 50 Final Project](https://github.com/jasaimartinez/MARVELous) </b>: Marvelous!🦸, a Flask website allowing Marvel fans to engage with one another in rating movies!
