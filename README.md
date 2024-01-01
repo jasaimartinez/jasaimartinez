@@ -1,6 +1,10 @@
-### Hi there 👋
+## Welcome to my Github Profile!👋
 
 I am a student at Harvard studying Computer Science and Statistics. Here are a few of my projects below!
+
+## Projects
+<b>[CS 50 Final Project](https://github.com/jasaimartinez/MARVELous) </b>: Marvelous, a Flask website allowing Marvel fans to engage with one another in rating movies!
+
 
 <!--
 **jasaimartinez/jasaimartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
